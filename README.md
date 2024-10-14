@@ -44,7 +44,7 @@ The admin dashboard offers insights into:
 - **Top-rated books**  
 - **Most active users**  
 - **Number of users, books, and reviews in the system**  
-- **Login activity and session durations**
+- **Login activity**
 
 
 Enjoy exploring the world of books with this Online Library Database System! 📚✨
