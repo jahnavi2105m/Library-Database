@@ -41,10 +41,10 @@ This is an online library management system built using the .NET Framework and C
 
 ## 📊 Admin Dashboard 
 The admin dashboard offers insights into:  
-- **Top-rated books**  
-- **Most active users**  
-- **Number of users, books, and reviews in the system**  
-- **Login activity**
+- Top-rated books  
+- Most active users  
+- Number of users, books, and reviews in the system  
+- Login activity
 
 
 Enjoy exploring the world of books with this Online Library Database System! 📚✨
